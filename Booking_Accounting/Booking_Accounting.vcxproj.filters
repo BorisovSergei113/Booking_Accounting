@@ -36,6 +36,12 @@
     <ClInclude Include="AddDelBookWnd.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="Make_Order.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Del_Order.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Booking_Accounting.cpp">
@@ -48,6 +54,12 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="AddDelBookWnd.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Make_Order.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Del_Order.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

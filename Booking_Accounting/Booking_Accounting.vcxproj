@@ -185,7 +185,9 @@
     <ClInclude Include="AddDelBookWnd.h" />
     <ClInclude Include="Booking_Accounting.h" />
     <ClInclude Include="Booking_AccountingDlg.h" />
+    <ClInclude Include="Del_Order.h" />
     <ClInclude Include="GlobalMYSQL.h" />
+    <ClInclude Include="Make_Order.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -194,6 +196,8 @@
     <ClCompile Include="AddDelBookWnd.cpp" />
     <ClCompile Include="Booking_Accounting.cpp" />
     <ClCompile Include="Booking_AccountingDlg.cpp" />
+    <ClCompile Include="Del_Order.cpp" />
+    <ClCompile Include="Make_Order.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
