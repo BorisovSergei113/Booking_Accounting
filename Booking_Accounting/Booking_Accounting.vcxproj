@@ -185,6 +185,7 @@
     <ClInclude Include="AddDelBookWnd.h" />
     <ClInclude Include="Booking_Accounting.h" />
     <ClInclude Include="Booking_AccountingDlg.h" />
+    <ClInclude Include="Connect_Settings_Wnd.h" />
     <ClInclude Include="Del_Order.h" />
     <ClInclude Include="GlobalMYSQL.h" />
     <ClInclude Include="Make_Order.h" />
@@ -196,6 +197,7 @@
     <ClCompile Include="AddDelBookWnd.cpp" />
     <ClCompile Include="Booking_Accounting.cpp" />
     <ClCompile Include="Booking_AccountingDlg.cpp" />
+    <ClCompile Include="Connect_Settings_Wnd.cpp" />
     <ClCompile Include="Del_Order.cpp" />
     <ClCompile Include="Make_Order.cpp" />
     <ClCompile Include="stdafx.cpp">
